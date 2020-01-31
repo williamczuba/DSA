@@ -6,4 +6,4 @@ This is a work in progress to implement the data structures and algorithms from 
 
 # Resources
 Link to copy of DSA:
-https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf
+https://github.com/williamczuba/DSA
